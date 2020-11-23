@@ -1,7 +1,7 @@
 # xray-project
 
 ## Project Structure
-The main structure is build off the repo https://github.com/aildnont/covid-cxr. To bolster the training three different datasources were compiled and preprocessed.
+The main structure is built off the repo: https://github.com/aildnont/covid-cxr it was forked and modified. To bolster the training three different datasources were compiled and preprocessed.
 The notebook includes commands to retreive and organize the data, train three different image based models, and run interepretability analysis with LIME
 and SHAP. The notebook was intended to be ran in a COLAB environment with a GPU.
 
